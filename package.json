@@ -1,0 +1,22 @@
+{
+  "name": "yqniamoay.github",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "15.7.0",
+    "bootstrap": "3.4.1",
+    "react-dom": "15.7.0",
+    "recompose": "0.23.5",
+    "keycode-js": "0.0.4",
+    "immutability-helper": "2.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
